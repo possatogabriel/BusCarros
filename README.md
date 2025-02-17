@@ -8,7 +8,7 @@ Projeto final do primeiro curso na segunda formação de Java da Alura
 
 Esse projeto permite que você **busque um modelo específico de um *carro, moto ou caminhão* para mostrar suas informações, como preço médio, tipo do combustível, marca...**
 
-> Esse projeto utiliza da <a href = "https://deividfortuna.github.io/fipe/?ref=public_apis&utm_medium=website"> FIPE API </a>
+> Esse projeto utiliza da <a href = "https://deividfortuna.github.io/fipe/?ref=public_apis&utm_medium=website"> FIPE API </a> e **Spring Framework**
 > - *Há mudanças e implementações individuais ao código que o fazem ser mais simples de ler e entender*  
 
 ## 💻 Tecnologias Utilizadas
