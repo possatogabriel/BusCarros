@@ -16,6 +16,22 @@ Esse projeto permite que você **busque um modelo específico de um *carro, moto
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height = "40"/>
 
+## 💾 Como executar o programa
+
+- Passo 1: Utilize a IDE da sua preferência (por exemplo, a IDE do <a href = "https://www.jetbrains.com/pt-br/idea/"> Intellij, </a> como mostrado no exemplo) 
+
+- Passo 2: Clique em **"Setup JDK"** 
+<img src = "img/Passo1.jpg">
+
+- Passo 3: Clique em **"Download JDK"**
+<img src = "img/Passo2.jpg">
+
+- Passo 4: Instale a versão mais recente
+<img src = "img/Passo3.jpg">
+
+- Passo 5: Após a instalação, procure a classe principal ***(BuscarrosApplication)*** e execute o programa
+<img src = "img/Passo4.jpg">
+
 ## 🏅 Certificado de Conclusão 
 
 <img src = "img/Certificado.jpg" alt = "Certificado de Conclusão da Alura"/>
