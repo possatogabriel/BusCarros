@@ -15,11 +15,14 @@ Esse projeto permite que você **busque um modelo específico de um *carro, moto
 `Trabalhado durante o curso:`
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height = "40"/>
-          
 
 ## 🛠️ Como executar o programa
 
-- Passo 1: Utilizando a <a href = "https://www.jetbrains.com/pt-br/idea/">IDE do Intellij,</a> clique em **"Setup SDK"**
+- Passo 1: Baixe o ZIP do projeto ***(escolha a versão em "Releases" ou apenas clique em "Code")*** e descompacte a pasta
+<img src = "img/Passo0_1.jpg">
+<img src = "img/Passo0_2.jpg">
+
+- Passo 2: Abra o projeto utilizando a <a href = "https://www.jetbrains.com/pt-br/idea/">IDE do Intellij</a> e clique em **"Setup SDK"**
 <img src = "img/Passo1.jpg">
 
 - Passo 3: Clique em **"Download JDK"**
