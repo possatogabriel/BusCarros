@@ -31,7 +31,7 @@ Esse projeto permite que você **busque um modelo específico de um *carro, moto
 - Passo 4: Instale a versão mais recente (ou, em caso de problemas, ***instale a versão demonstrada na imagem***)
 <img src = "img/Passo3.jpg">
 
-- Passo 5: Após a instalação, procure a classe principal e execute o programa
+- Passo 5: Após a instalação, procure a classe principal ***(BuscarrosApplication)*** e execute o programa
 <img src = "img/Passo4.jpg">
 
 ## 🏅 Certificado de Conclusão 
